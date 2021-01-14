@@ -3,9 +3,9 @@
 RGC: Events
 ==================================
 
-By default, this is empty (``{}``). ``format``s will extend this with event types.
+By default, this is empty (``{}``). A ``format`` will extend this with event types.
 
-That said, ``format``s are **NOT** free to extend this however they want. The expected format for extending this is defined below, where ``[eventType]`` is a generic eventType name.
+That said, A ``format`` is **NOT** free to extend this however it wants. The expected format for extending this is defined below, where ``[eventType]`` is a generic eventType name.
 
 .. list-table:: Body
     :widths: 25 25 50
