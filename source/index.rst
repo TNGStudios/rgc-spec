@@ -37,5 +37,5 @@ RGC does not replace any existing formats, and does not have to be implemented b
    std/iidx-SP
 
 .. meta::
-    :description: The official specification for .rgc
+    :description: The official specification for RGC.
     :keywords: Docs, Rhythm Game, rgc, json, pulse, backbeat
