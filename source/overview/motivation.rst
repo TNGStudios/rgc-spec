@@ -36,5 +36,5 @@ Under normal circumstances, I'd agree that this would contribute to a mess of mo
 
 While there *are* lots of existing formats for rhythm game charts for **specific games**, there isn't actually a game-agnostic one.
 
-Infact, RGC could be more suitably described as an interchange format for existing chart formats.
+In fact, RGC could be more suitably described as an interchange format for existing chart formats.
 
