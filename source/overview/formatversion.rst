@@ -52,7 +52,7 @@ Let's consider a game changing the name of a difficulty.
 
 The new ``difficulty`` metadata property for the game will have to then support either name for the difficulties, even if one of them only really makes sense.
 
-Code interacting with RGC is free to have its own opinion on how it handles the redudant 
+Code interacting with RGC is free to have its own opinion on how it handles the redundant information.
 
 ##################################
 When does it become a new format?
