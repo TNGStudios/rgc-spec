@@ -29,7 +29,7 @@ Format String
 The value of this field **MUST** be a string, and **MUST** match the following criteria:
 
 - The namespace and name must be between 3 and 32 characters (inclusive).
-- The namespace and name can ONLY include the following characters: :abbr:`[a-zA-Z0-9-] (abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-)`.
+- The namespace and name can ONLY include :abbr:`Alphanumeric characters and the dash character. (abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-)`.
 - The namespace and name must be separated with a single /.
 
 .. list-table:: Examples:
