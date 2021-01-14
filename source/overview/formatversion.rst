@@ -30,7 +30,7 @@ In our previous example, that means that, if IIDX20 was ``formatVersion: 1``, II
 
 Now, this makes the jobs of serialisers pretty easy. **All format versions are therefore future-compatible, so checking whether a serialiser can handle a file is a single statement.**
 
-As an example, lets say we have a serialiser that supports IIDX20. Since all future versions are supersets, all we need to do is check:
+As an example, let's say we have a serialiser that supports IIDX20. Since all future versions are supersets, all we need to do is check:
 
 ``if (formatVersion >= 1)``
 

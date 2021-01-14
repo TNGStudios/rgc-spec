@@ -18,7 +18,7 @@ That said, Formats are **NOT** free to extend this however they want. The expect
         - List<``format [objectType]`` extends :ref:`rgc_object`>
         - Contains information about the RGC file, including the format.
 
-As an example of this extension, lets say we have a format ``zkldi/some-rhythm-game``. This format defines the objectTypes NOTE and BPM.
+As an example of this extension, let's say we have a format ``zkldi/some-rhythm-game``. This format defines the objectTypes NOTE and BPM.
 
 The ``objects`` property inside the RGC **MUST** then be formatted like:
 
@@ -29,7 +29,7 @@ The ``objects`` property inside the RGC **MUST** then be formatted like:
        "BPM": []
    }
 
-Lets say our ``NOTE`` object defines a property of ``column``, we could then store an object like this:
+Let's say our ``NOTE`` object defines a property of ``column``, we could then store an object like this:
 
 .. code-block:: JSON
 
