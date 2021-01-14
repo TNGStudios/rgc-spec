@@ -4,18 +4,18 @@ What is a chart?
 It's important, before showing RGC, to understand what we define a chart as.
 
 #################
-Defining Objects
+Defining Events
 #################
 
-RGC interprets a chart as being made of two parts, Objects and Metadata.
+RGC interprets a chart as being made of two parts, Events and Metadata.
 
-An object, in RGC, is simply any event that happens at a certain time. Notes, for example, would be an object.
+An event, in RGC, is simply any event that happens at a certain time. Notes, for example, would be an event.
 
-Similarly, non-playable events are also objects, such as BPM changes or measure changes.
+Similarly, non-playable events are also events, such as BPM changes or measure changes.
 
-In short, anything that happens at a given time is an object to RGC.
+In short, anything that happens at a given time is an event to RGC.
 
-To store objects in RGC, RGC uses an Object Type. For example, Notes in ``std/iidx-SP`` have the type of ``NOTE``, BPM objects have the type of ``BPM`` and so on.
+To store events in RGC, RGC uses an Event Type. For example, Notes in ``std/iidx-SP`` have the type of ``NOTE``, BPM events have the type of ``BPM`` and so on.
 
 #################
 Defining Metadata

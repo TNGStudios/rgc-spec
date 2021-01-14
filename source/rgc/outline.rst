@@ -19,6 +19,6 @@ This defines the entire JSON body inside RGC.
     *   - ``meta``
         - ``rgcMeta.format`` extended :ref:`rgc_meta`
         - Meta information about the song and chart.
-    *   - ``objects``
-        - ``rgcMeta.format`` extended :ref:`rgc_objects`
-        - A dictionary containing arrays of all objects in the chart.
+    *   - ``events``
+        - ``rgcMeta.format`` extended :ref:`rgc_events`
+        - A dictionary containing arrays of all events in the chart.

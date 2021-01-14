@@ -63,7 +63,7 @@ Either:
 If the changes are "significant", such as the change between Reflec Beat's VOLZZA 2 and Reflesia, where an entire type of note was removed, and replaced with another.
 
 .. note::
-    Yes, technically you could roll this into a superset by defining a new object type, and expecting people to ignore the old one.
+    Yes, technically you could roll this into a superset by defining a new event type, and expecting people to ignore the old one.
     However, *technically*, you could also roll every single game into one superset, and expect people to ignore the fields they don't need.
 
 Or if the changes are not able to be places into one superset, such as if a game has a property that, in the future, made existing values invalid.

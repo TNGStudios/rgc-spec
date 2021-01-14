@@ -50,4 +50,4 @@ Those games may become a part of the standard in the future, and because of the 
 What can a format extend?
 ##################################
 
-A format is free to add any field inside ``meta``, and is free to define new Object Types inside ``objects``. More information about this can be found at :ref:`rgc_objects`.
+A format is free to add any field inside ``meta``, and is free to define new Event Types inside ``events``. More information about this can be found at :ref:`rgc_events`.

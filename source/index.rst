@@ -27,8 +27,8 @@ RGC does not replace any existing formats, and does not have to be implemented b
    rgc/outline
    rgc/rgcmeta
    rgc/meta
-   rgc/objects
-   rgc/object
+   rgc/events
+   rgc/event
    
 .. toctree::
    :maxdepth: 2
