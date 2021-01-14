@@ -7,7 +7,7 @@ Game-specific implementations
 
 You might be confused as to how one single format can possibly anticipate everything a rhythm game could throw at it.
 
-The answer is simple, it doesn't try to!
+Simple: It doesn't try to.
 
 RGC works as a skeleton schema. It requires certain properties to be defined, then uses a parameter to define a ``format``.
 
@@ -50,4 +50,4 @@ Those games may become a part of the standard in the future, and because of the 
 What can a format extend?
 ##################################
 
-A format is free to add any field inside ``meta``, and is free to define new Object Types inside ``objects``.
+A format is free to add any field inside ``meta``, and is free to define new Object Types inside ``objects``. More information about this can be found at :ref:`rgc_objects`.
