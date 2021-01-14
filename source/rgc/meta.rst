@@ -19,10 +19,7 @@ As such, everything listed below is a required field, but other fields may be pr
         - The song title for this chart. If this is not known, this **SHOULD** be null.
     *   - ``artist``
         - String | null
-        - The song artist for this chart. If this not known, this **SHOULD** be null.
+        - The song artist for this chart. If this is not known, this **SHOULD** be null.
     *   - ``charter``
         - String | null
-        - The charter behind this song.
-    *   - ``collaborators``
-        - List<String>
-        - Other charters involved with the creation of this chart. This is for collaboration charts.
+        - The charter behind this song. If this is not known, this **SHOULD** be null.
