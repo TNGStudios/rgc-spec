@@ -38,6 +38,10 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
+# despite the fact these docs are primarily JSON oriented,
+# we actually want to use py here for the type parameters.
+primary_domain = "py" 
+
 
 # -- Options for HTML output -------------------------------------------------
 
