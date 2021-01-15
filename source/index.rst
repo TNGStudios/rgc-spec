@@ -35,6 +35,7 @@ RGC does not replace any existing formats, and does not have to be implemented b
    :caption: Standard Formats
 
    std/iidx-SP
+   std/iidx-DP
 
 .. meta::
     :description: The official specification for RGC.
