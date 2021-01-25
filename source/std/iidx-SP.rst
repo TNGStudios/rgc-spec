@@ -64,7 +64,7 @@ Latest ``formatVersion``
     .. info::
         7+ and 8+ are legacy levels, and have not been used since IIDX12 in 2005.
 
-    :type: "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" | "10" | "11" | "12" | "7+" | "8+" null
+    :type: "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" | "10" | "11" | "12" | "7+" | "8+" | null
 
 .. data:: marquee
 
